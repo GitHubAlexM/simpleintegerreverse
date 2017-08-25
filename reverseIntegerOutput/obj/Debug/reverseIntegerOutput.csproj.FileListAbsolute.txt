@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\bin\Debug\reverseIntegerOutput.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\bin\Debug\reverseIntegerOutput.exe
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\bin\Debug\reverseIntegerOutput.pdb
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\obj\Debug\reverseIntegerOutput.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\obj\Debug\reverseIntegerOutput.exe
+c:\users\alex\documents\visual studio 2017\Projects\reverseIntegerOutput\reverseIntegerOutput\obj\Debug\reverseIntegerOutput.pdb
